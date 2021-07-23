@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import qs from 'qs';
-import Pagination from './Pagination';
-import Searchinput from './Searchinput';
+import Pagination from './components/Pagination';
+import Searchinput from './components/Searchinput';
 import narutoCorrendo from './img/naruto-corendo.gif'
 import './App.css';
 
